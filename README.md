@@ -1,7 +1,10 @@
 Wardrobe-Recommender
 ==============================
 
-A short description of the project.
+Wardrobe-Recommender is a capstone project completed for the ML Eng track of Springboard (Q1-2020). Created by Mikiko Bazeley,
+the project leverages computer vision techniques, deep learning, as well as a scatter of NLP techniques to recommend new items of clothing based on a user's existing preferences.
+
+
 
 Project Organization
 ------------
