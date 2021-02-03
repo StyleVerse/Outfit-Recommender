@@ -1,0 +1,41 @@
+# create new environment
+conda create -n ENV_NAME
+# create new environment with different version of python
+conda create -n ENV_NAME python=VERSION
+# create environment from existing environment.yaml
+conda env create -f environment.yaml
+# update existing environment from environment.yaml
+conda env update --file environment.yaml
+# activate environment
+conda activate ENV_NAME
+# deactivate environment
+conda deactivate
+# delete/remove environment
+conda env remove -n ENV_NAME
+# list all environments
+conda env list
+# export requirements.txt with conda
+conda list --export > requirements.txt
+# export requirements.txt with pip
+pip freeze > requirements.txt
+# export environment.yaml
+conda env export > environment.yaml
+# export environment.yaml with no builds
+conda env export --no-builds > environment.yaml
+# install dependencies
+conda install PACKAGE_NAME
+OR
+conda install -c conda-forge PACKAGE_NAME
+# install dependencies with a specific version
+conda install PACKAGE_NAME=VERSION
+# uninstall dependencies
+conda uninstall PACKAGE_NAME
+# list all dependencies
+conda list
+# create ipython kernel (for jupyter and jupyterlab)
+conda install -c conda-forge jupyterlab ipykernel
+ipython kernel install --user --name=KERNEL_NAME
+# list all ipython kernels
+jupyter kernelspec list
+# uninstall/remove existing ipython kernel
+jupyter kernelspec uninstall KERNEL_NAME
