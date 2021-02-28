@@ -171,6 +171,7 @@ dependencies:
     - iniconfig==1.1.1
     - joblib==1.0.0
     - llvmlite==0.35.0
+    - lmdb==1.1.1
     - murmurhash==1.0.5
     - numba==0.52.0
     - pathy==0.3.5
@@ -196,4 +197,5 @@ dependencies:
     - typer==0.3.2
     - typing-extensions==3.7.4.3
     - wasabi==0.8.2
+    - wget==3.2
 prefix: /Users/mikikobazeley/opt/anaconda3/envs/SPRINGBOARD_MLE_CAPSTONE_ENV
