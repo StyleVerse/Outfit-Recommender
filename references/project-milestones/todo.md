@@ -1,5 +1,13 @@
 TODOs
 
+ 👉🏻Examples of projects to use: 
+
+      🔗 https://madewithml.com/#mlops
+      🔗 https://www.udemy.com/course/deployment-of-machine-learning-models/
+      🔗 https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/
+      🔗 https://www.blog.confetti.ai/post/fake-news-detection-from-ideation-to-deployment-model-deployment-and-continuous-integration
+
+
 👉🏻 System Design: Model-as-a-Service (https://fullstackdeeplearning.com/spring2021/lecture-11/#model-as-service)
 
    ◻️ CI/CD
