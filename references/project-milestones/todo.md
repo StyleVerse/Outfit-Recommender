@@ -6,6 +6,9 @@ TODOs
       🔗 https://www.udemy.com/course/deployment-of-machine-learning-models/
       🔗 https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/
       🔗 https://www.blog.confetti.ai/post/fake-news-detection-from-ideation-to-deployment-model-deployment-and-continuous-integration
+      🔗 https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
+      🔗 https://cloud.google.com/architecture/cicd-pipeline-for-data-processing
+      🔗 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation
 
 
 👉🏻 System Design: Model-as-a-Service (https://fullstackdeeplearning.com/spring2021/lecture-11/#model-as-service)
