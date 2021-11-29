@@ -1,6 +1,6 @@
 Wardrobe-Recommender
 ==============================
-
+Checkout TODOs list here 👉🏻 [/refs/projet-milestones/todo.md](https://github.com/StyleVerse/Wardrobe-Recommender/blob/master/references/project-milestones/todo.md)
 
 
 Project Organization
